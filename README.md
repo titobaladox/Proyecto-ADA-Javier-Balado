@@ -132,7 +132,7 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 
 -Turno
 
-**De las materias se conoce**
+**De las materias se conoce:**
 
 -Identificador
 
