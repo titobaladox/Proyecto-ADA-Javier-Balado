@@ -28,3 +28,17 @@ El sistema debe poder cargar a los profesores, asignarles sus horas de trabajo, 
   -La interfaz debe contar con un LogIn que otorgue acceso al sistema
   
   
+### Requisitos no Funcionales:
+
+  -El sistema debe contar con una base de datos con capacidad para almacenar al menos 200 usuarios
+  
+  -El sistema debe trabajar de forma local y remota
+  
+  -El sistema permite dividir los horarios por turnos (Matutino,Vespertino,Nocturno)
+  
+  -El sistema tendrá soporte para dispositivos móviles
+  
+  -El sistema pedirá confimación al momento de realizar cualquier cambio
+  
+  -El sistema guardará un respaldo de los datos borrados durante un mes
+  
