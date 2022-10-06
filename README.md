@@ -104,7 +104,7 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 
 # Base de Datos del Sistema
 
-De los docentes se conoce:
+**De los docentes se conoce:**
 
 -Cédula
 
@@ -114,7 +114,7 @@ De los docentes se conoce:
 
 -Teléfono
 
-De los administradores se conoce:
+**De los administradores se conoce:**
 
 -Cédula
 
@@ -124,10 +124,16 @@ De los administradores se conoce:
 
 -Teléfono
 
-De los grupos se conoce:
+**De los grupos se conoce:**
 
 -Identificador
 
--Horarios
+-Turno
 
--Materias
+**De las materias se conoce**
+
+-Identificador
+
+-Horario
+
+-Nombre
