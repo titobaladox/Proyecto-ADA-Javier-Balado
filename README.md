@@ -77,3 +77,16 @@ avances.
 
 -Resulta más sencillo acomodar cambios al acotar el tamaño
 de los incrementos.
+
+#### Desventajas:
+
+-El modelo Incremental no es recomendable para
+casos de sistemas de tiempo real, de alto nivel de
+seguridad, de procesamiento distribuido, y/o de alto
+índice de riesgos.
+
+-Requiere de mucha planificación, tanto administrativa
+como técnica.
+
+-Requiere de metas claras para conocer el estado del
+proyecto.
