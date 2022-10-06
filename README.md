@@ -58,3 +58,7 @@ varios ciclos Cascada realimentados aplicados repetidamente, con
 una filosofía iterativa.
 El modelo incremental es útil sobre todo cuando el personal
 necesario para una implementación completa no esta disponible.
+
+En este caso en particular el equipo de trabajo es unipersonal por lo cuál crear una implementación completa requeriría mucho tiempo
+antes de que el cliente pueda ver el producto, además este modelo permite un contacto directo con el cliente por si surgen nuevos requerimientos
+durante el transcurso de la creación del software.
