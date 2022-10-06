@@ -7,7 +7,7 @@ Este proyecto se va a centrar en crear profesores y asignarles materias a los mi
 
 El sistema debe poder cargar a los profesores, asignarles sus horas de trabajo, asignarles grupos y asignarles una o más materias.
 
-### Requisitos Funcionales:
+### Requerimientos Funcionales:
 
   -Dar alta, baja y modificación a los docentes
   
@@ -28,7 +28,7 @@ El sistema debe poder cargar a los profesores, asignarles sus horas de trabajo, 
   -La interfaz debe contar con un LogIn que otorgue acceso al sistema
   
   
-### Requisitos no Funcionales:
+### Requerimientos no Funcionales:
 
   -El sistema debe contar con una base de datos con capacidad para almacenar al menos 200 usuarios
   
