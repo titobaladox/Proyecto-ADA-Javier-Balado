@@ -137,3 +137,5 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 -Horario
 
 -Nombre
+
+**Se sabe que:** Un profesor puede dictar una o más materias, a su vez una materia puede ser dictada por un solo profesor. Un grupo tiene muchas materias y las    materias pueden estar en más de un grupo. Los administradores pueden crear grupos, materias y profesores pero también, supervisar el dictado de las materias.
