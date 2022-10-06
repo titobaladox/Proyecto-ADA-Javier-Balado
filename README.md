@@ -62,3 +62,18 @@ necesario para una implementación completa no esta disponible.
 En este caso en particular el equipo de trabajo es unipersonal por lo cuál crear una implementación completa requeriría mucho tiempo
 antes de que el cliente pueda ver el producto, además este modelo permite un contacto directo con el cliente por si surgen nuevos requerimientos
 durante el transcurso de la creación del software.
+
+#### Ventajas:
+
+-Se reduce el tiempo de desarrollo inicial, ya que se implementa la funcionalidad parcial.
+
+
+-Proporciona todas las ventajas del modelo en cascada realimentado, reduciendo sus desventajas sólo al ámbito de cada incremento.
+
+-Los modelos iterativos e incrementales disminuyen riesgos ya
+que estos modelos se basan en la retroalimentación sobre los
+avances.
+
+
+-Resulta más sencillo acomodar cambios al acotar el tamaño
+de los incrementos.
