@@ -104,7 +104,7 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 
 # Base de Datos del Sistema
 
-[![istockphoto-1172788298-1024x1024.jpg](https://i.postimg.cc/mZPFPSzK/istockphoto-1172788298-1024x1024.jpg)](https://postimg.cc/JtWhgZQQ)
+
 
 **De los docentes se conoce:**
 
