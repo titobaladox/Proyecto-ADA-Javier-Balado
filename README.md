@@ -90,3 +90,13 @@ como técnica.
 
 -Requiere de metas claras para conocer el estado del
 proyecto.
+
+## Conclusión
+
+Para realizar el proyecto con esta modalidad de trabajo se requieren objetivos bien definidos, una comunicación directa con el cliente/usuario. Siempre teniendo en cuenta que el conocimiento en cuanto a desarrollo de software por parte de este puede ser **nula o casi nula**.
+
+Debemos poder concretar entra ambas partes entregas con pequeñas metas (*requerimientos*) alcanzables para las distintas instancias.
+
+Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y anteriormente se deben entregar un minimo de 5 adelantos del proyecto.
+
+[![direccion-de-proyectos-control-de-proyectos.jpg](https://i.postimg.cc/Hx7ZvgKg/direccion-de-proyectos-control-de-proyectos.jpg)](https://postimg.cc/JDM5t9M6)
