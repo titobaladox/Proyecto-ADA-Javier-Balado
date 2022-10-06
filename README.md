@@ -44,3 +44,17 @@ El sistema debe poder cargar a los profesores, asignarles sus horas de trabajo, 
   
   -El sistema guardará un respaldo de los datos borrados durante un mes
   
+  
+  ## Modalidad de trabajo
+  
+  La modalidad de trabajo que se seleccionó para este proyecto es el **Modelo Iterativo Incremental.**
+  
+  [![iteracion.png](https://i.postimg.cc/Y28TLntt/iteracion.png)](https://postimg.cc/kD6TkyVH)
+  
+  #### ¿Qué es?
+  
+El incremental es un modelo de tipo evolutivo que está basado en
+varios ciclos Cascada realimentados aplicados repetidamente, con
+una filosofía iterativa.
+El modelo incremental es útil sobre todo cuando el personal
+necesario para una implementación completa no esta disponible.
