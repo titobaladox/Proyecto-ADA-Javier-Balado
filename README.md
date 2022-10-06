@@ -102,3 +102,32 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 [![direccion-de-proyectos-control-de-proyectos.jpg](https://i.postimg.cc/Hx7ZvgKg/direccion-de-proyectos-control-de-proyectos.jpg)](https://postimg.cc/JDM5t9M6)
 
 
+# Base de Datos del Sistema
+
+De los docentes se conoce:
+
+-Cédula
+
+-Nombre y Apellido
+
+-Dirección
+
+-Teléfono
+
+De los administradores se conoce:
+
+-Cédula
+
+-Nombre y Apellido
+
+-Dirección
+
+-Teléfono
+
+De los grupos se conoce:
+
+-Identificador
+
+-Horarios
+
+-Materias
