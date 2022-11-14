@@ -179,3 +179,7 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 [![CUMODIFICAR.png](https://i.postimg.cc/766JwZFy/CUMODIFICAR.png)](https://postimg.cc/R3kZT4CP)
 
 [![006.png](https://i.postimg.cc/HxV03zs5/006.png)](https://postimg.cc/5YWF2wzN)
+
+### DIAGRAMA DE CLASES
+
+[![clases.png](https://i.postimg.cc/ncksj7nt/clases.png)](https://postimg.cc/GH4364BM)
