@@ -183,3 +183,8 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 ### DIAGRAMA DE CLASES
 
 [![clases.png](https://i.postimg.cc/ncksj7nt/clases.png)](https://postimg.cc/GH4364BM)
+
+
+### PROTOTIPO DE DISEÑO
+
+[![ventana-Principal.png](https://i.postimg.cc/3RnrRTDk/ventana-Principal.png)](https://postimg.cc/8JfgKx4G)
