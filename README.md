@@ -188,3 +188,5 @@ Se ha concretado el plazo máximo para la entraga final en la fecha 28/02/2023 y
 ### PROTOTIPO DE DISEÑO
 
 [![ventana-Principal.png](https://i.postimg.cc/3RnrRTDk/ventana-Principal.png)](https://postimg.cc/8JfgKx4G)
+
+[![Screenshot-6.png](https://i.postimg.cc/8Cn4RFWD/Screenshot-6.png)](https://postimg.cc/Ff30mHDn)
